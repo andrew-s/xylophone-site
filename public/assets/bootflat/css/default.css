@@ -1,0 +1,27 @@
+.bf-blank {
+  margin-top: 40px;
+}
+.bf-docs-header {
+  margin: 40px auto;
+  text-align: center;
+}
+.bf-docs-examples [class^="col-md-"],
+.bf-docs-examples [class*="col-md-"] {
+  margin-bottom: 20px;
+}
+.bf-size:nth-child(2) button {
+  margin-top: 11px;
+}
+.bf-size:nth-child(3) button {
+  margin-top: 15px;
+}
+.bf-size:nth-child(4) button {
+  margin-top: 23px;
+}
+.bf-example {
+  margin-top: 0;
+}
+.bf-example .pagination,
+.bf-example .pager {
+  margin: 0 !important;
+}
