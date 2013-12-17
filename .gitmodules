@@ -1,0 +1,3 @@
+[submodule "xylophone_framework"]
+	path = xylophone_framework
+	url = https://github.com/andrew-s/xylophone.git
