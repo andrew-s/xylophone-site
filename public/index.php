@@ -46,7 +46,7 @@
       <h1>Why Xylophone?</h1>
       <p>
         Developing applications has never been easier with the wide range of frameworks available, <a href="http://www.codeigniter.com/">CodeIgniter</a> was one of the frameworks
-        at the beginning - we've forked it and added some features like HMVC while still providing you with an upgrade-path for your exisitng applications.
+        at the beginning - we've forked it and added some features like HMVC while still providing you with an upgrade-path for your existing applications.
       </p>
     </div>
   </div>
