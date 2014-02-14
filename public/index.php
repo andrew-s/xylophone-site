@@ -25,12 +25,12 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a href="../index.html" class="navbar-brand">Xylophone PHP Framework</a>
+        <a href="/" class="navbar-brand"><img src="/assets/images/xylophone_logo.png" width="32" height="32" />  Xylophone PHP Framework</a>
       </div>
       <nav class="collapse navbar-collapse bf-navbar-collapse" role="navigation">
         <ul class="nav navbar-nav navbar-right">
           <li><a href="../getting-started.html">Getting Started</a></li></li>
-          <li class="active"><a href="../docs/components.html">Components</a></li>
+          <li class="active"><a href="/user_guide/#library-reference">Components</a></li>
           <li><a href="/user_guide/">User Guide</a></li>
 
         </ul>

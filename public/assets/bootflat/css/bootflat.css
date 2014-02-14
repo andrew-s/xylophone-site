@@ -1292,7 +1292,7 @@ fieldset[disabled] .radio,
     $navbar-inverse
 \*------------------------------------*/
 .navbar-inverse {
-    background-color:#292929;
+    background-color:#000000;
 }
 .navbar-inverse .nav .active a,
 .navbar-inverse .nav .active a:hover,
